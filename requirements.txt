@@ -1,0 +1,9 @@
+torch
+torchvision
+pre-commit
+statistics
+# fvcore
+# matplotlib
+# numpy
+# pyyaml
+fvcore
